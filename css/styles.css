@@ -78,7 +78,7 @@ p , s {
 .cta-btn {
     border: none;
     background-color: hsl(158, 36%, 37%);
-    color: white ;
+    color: white;
     border-radius: 12px;
     font-family: Montserrat, san-serif;
     font-size: 12px;
@@ -88,6 +88,7 @@ p , s {
 
 .cta-btn:hover {
     background-color: hsl(158, 36%, 25%);
+    color: white;
 }
 
 svg {
